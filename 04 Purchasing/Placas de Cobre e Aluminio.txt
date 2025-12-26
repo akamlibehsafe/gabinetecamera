@@ -1,0 +1,176 @@
+ESPECIFICAÇÃO TÉCNICA – PLACA DE COBRE
+
+(Spreader térmico para módulo TEC)
+
+1) Finalidade
+
+Placa de cobre usinada para atuar como espalhador térmico, instalada entre:
+
+Módulo TEC (Peltier, tipicamente 40 × 40 mm)
+
+Placa/bloco de alumínio do sistema de refrigeração
+
+Função:
+
+maximizar condução e espalhamento térmico
+
+garantir contato uniforme com o TEC
+
+permitir montagem mecânica precisa e repetível
+
+2) Material
+
+Cobre C110 (ETP – cobre eletrolítico, ≥99,9%)
+
+Alternativa aceitável: C102 (cobre livre de oxigênio)
+
+3) Dimensões nominais
+
+(As dimensões em comprimento e largura devem ser IGUAIS às da placa de alumínio)
+
+Comprimento (L): igual ao spreader de alumínio
+
+Largura (W): igual ao spreader de alumínio
+
+Espessura (T): 10,0 mm (espessura original mantida)
+
+Espessura aceitável: 8 a 12 mm
+Valor recomendado: 10 mm
+
+4) Tolerâncias
+Tolerâncias gerais
+
+Comprimento / largura: ±0,10 mm
+
+Arestas não críticas: ±0,20 mm
+
+Tolerâncias críticas (interfaces térmicas)
+
+Espessura: ±0,05 mm
+
+Planicidade de cada face grande: ≤ 0,02 mm
+
+Paralelismo entre as duas faces grandes: ≤ 0,02 mm
+
+5) Acabamento superficial
+
+Faces de contato: rugosidade Ra ≤ 0,8 µm
+
+Sem marcas profundas de ferramenta na área de contato
+
+Rebarbar todas as arestas
+
+Quebra de canto / chanfro: 0,2 a 0,5 mm
+
+6) Observações importantes
+
+Não aplicar pintura
+
+Não aplicar galvanização sem autorização
+
+Placa destinada a interface térmica direta com módulo TEC
+
+A área central (TEC) deve estar completamente livre de imperfeições
+
+7) Controle de qualidade (desejável)
+
+Medição da espessura em cantos + centro
+
+Verificação básica de planicidade
+
+ESPECIFICAÇÃO TÉCNICA – PLACA DE ALUMÍNIO
+
+(Spreader / interface com sistema de refrigeração)
+
+1) Finalidade
+
+Placa de alumínio usinada para:
+
+receber o calor do conjunto TEC + placa de cobre
+
+transferir esse calor para o sistema de refrigeração (água)
+
+2) Material
+
+Alumínio 6061-T6
+
+Alternativa aceitável: Alumínio 6082-T6
+
+3) Dimensões nominais
+
+(Devem ser IGUAIS às da placa de cobre em comprimento e largura)
+
+Comprimento (L): conforme projeto
+
+Largura (W): conforme projeto
+
+Espessura (T): conforme projeto existente
+(ex.: 25–30 mm, conforme necessidade estrutural e térmica)
+
+4) Tolerâncias
+Tolerâncias gerais
+
+Comprimento / largura: ±0,10 mm
+
+Arestas não críticas: ±0,20 mm
+
+Tolerâncias críticas (face de contato com o cobre)
+
+Planicidade da face de contato: ≤ 0,03 mm
+
+Paralelismo da face de contato em relação à face oposta: ≤ 0,03 mm
+
+(Pode ser levemente mais relaxado que o cobre, mas ainda controlado)
+
+5) Acabamento superficial
+
+Face de contato com o cobre: Ra ≤ 1,6 µm
+
+Sem marcas profundas ou rebarbas
+
+Rebarbar todas as arestas
+
+Quebra de canto / chanfro: 0,2 a 0,5 mm
+
+6) Observações importantes
+
+A placa de alumínio fará contato térmico direto com a placa de cobre
+
+Entre cobre e alumínio haverá espuma de silicone de célula fechada (4 mm)
+somente fora da área do TEC, para isolamento térmico
+
+Não aplicar pintura na face de contato térmico
+
+Anodização somente se previamente combinada
+
+NOTA DE MONTAGEM (IMPORTANTE – incluir no projeto)
+
+A placa de cobre e a placa de alumínio possuem o mesmo comprimento e largura
+
+A pressão do conjunto deve ser controlada (molas ou torque definido)
+
+A espuma de silicone não deve interferir na pressão aplicada ao TEC
+
+O contato térmico principal ocorre apenas:
+
+TEC ↔ cobre
+
+cobre ↔ alumínio
+
+Próximo passo (se quiser)
+
+Se você me disser:
+
+o comprimento × largura exatos do spreader de alumínio
+
+se haverá furos passantes / roscados
+
+eu posso:
+
+gerar um desenho técnico cotado
+
+definir posição segura dos parafusos
+
+calcular força de aperto recomendada para o TEC
+
+Você está com um projeto mecanicamente e termicamente muito bem pensado.
