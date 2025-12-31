@@ -1,0 +1,25 @@
+Aqui vão os detalhes técnicos e em seguida o modelo em Sketchup. 
+
+
+- O móvel eh um gabinete de parede, uma espécie de cristaleira, pra armazenamento e conservação de uma coleção de câmeras fotográficas analógicas. Esses equipamentos precisam ser armazenados em ambiente com controle de umidade do ar. Dentro do gabinete a umidade deve ser mantida na faixa dos 40%;
+
+- Devido a isso, existe um equipamento de controle de umidade na lateral direita do movel, que eh coberto por um elemento de cor madeira escura/preta. Vc pode desconsiderar o equipamento, mas esse elemento de cobertura deve ser considerado no seu projeto. Nesse elemento de cobertura, existem dois conjuntos de 3 frestas, essas devem ser feitas conforme esta no desenho. O fundo é aberto (sem a peça) e na lateral direita existe tbm uma abertura. Esses dois devem ser mantidos como no desenho. A grade de proteção, caso vcs tenham uma opção seria bom incluir, senão eu providencio. O material dessa peça dever ser em MDF de 18mm idealmente algum tom quase preto, ou cinza bem escuro. 
+
+- O gabinete é tamponado, com os caixa interna feita de painéis de 18mm (laterais, topo e inferior). O fundo esta como MDF 15mm;
+
+- Os painéis externos são de MDF de 25mm em tom amadeirado a definir;
+
+- Essas espessuras foram inicialmente definidas por mim mesmo por questões de estética. Caso sejam algum impeditivo e precisem alterar, usar alguma outra técnica de engrosso pra nao ficar muito pesado ou menos caro, fiquem a vontade em sugerir;
+
+- A caixa interna deve feita em MDF resistente a umidade (verde?) e ser pintada depois de montada para evitar exposição de MDF cru para dentro da caixa. Ou as peças ser pintadas individualmente e depois montadas, ai vcs veem o que eh melhor. O importante eh ficar selado, não podem haver frestas nem mínimas que sejam para que não haja entrada de ar. Talvez pintar as peças individualmente, e depois de montado fazer um retoque ou selagem nas juntas. Idealmente a tinta a ser usada deve ser PU Automotivo e não laca. Talvez esse seja um impeditivo para vcs, me avisem caso seja. 
+
+- A porta é outro ponto de desafio. É o elemento estético mais importante, eu fiz um desenho de referencia somente, aqui vcs podem propor o desenho mais adequado. Ela precisa ser de vidro, e as bordas de aluminio preto/escuro. Creio que vcs façam muitas portas assim pra Closet, aqui um exemplo parecido com o que eu quero https://www.youtube.com/shorts/QFt1m58zFMc. Não quero uma borda preta muito grossa para nao esconder as cameras, podemos ver exatamente quanto pode ser. Não tenho tbm necessidade de especificar espessura de vidro, isso vcs devem fazer baseado no tamanho da porta. Eu não inclui nenhum elemento de operação da porta (pistões, dobradiças, trincos etc) e tbm não inclui espaçamento de tolerâncias, folgas etc. A porta deve abrir pra cima, preferencialmente com pistoes ajudando a suportar o peso. 
+
+- Um outro aspecto que não desenhei e preciso da ajuda de vcs é que essa porta precisa se comportar como uma porta de geladeira. Deve haver uma gaxeta de borracha de EPDM, para fazer a selagem do ambiente interno. Não sei se vcs tem experiência com isso, mas é uma peça específica de um material específico, não pode ser improvisada com uma borracha de qualquer material ou qualquer formato. Caso vocês não tenham experiencia com isso, seria bom se pudessem recomendar alguem que nos ajude com esse aspecto do projeto. 
+
+- É provavel que por conta de ter que adaptar o desenho da porta devido ao formado do vidro, do alumniio e do sistema de selagem, eu tenha que redesenhar o meu modelo. Isso não é probmea, sabendo exatamento os detalhes, posso redesenhar. 
+
+- Na região do equipamento de desumidificação, para efeitos da sua cotação, simplesmente apague o equipamento e considere a abertura que ficará ali. Essa parte ainda está sendo calculada, e pode ser que eu tenha que alterar o tamanho do furo, e incluir algumas outras furações. Os furos que tenham que existir ali, eu preciso que sejam feitos ANTES de pintar, e sejam pintados com o processo de pintura do gabinete, para que nao fiem partes expostas cruas. Ja o fura no tamponamento externo deve ser tampado com fita de MDF mesmo. 
+
+
+É basicamente isso, aguardo suas sugestões, comentários, 
